@@ -21,3 +21,7 @@ bigimage.png
 smallimage.jpg
 
 ![alt text](https://github.com/mortezaalizadeh66/cpp-image-template-matching-opencv/blob/main/smallimage.jpg)
+
+
+
+#Next work is considering rotation on images
