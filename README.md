@@ -1,4 +1,9 @@
-# cpp-image-template-matchinopencvg
+# cpp-image-template-matchingopencv
+
+bigimage.png
+
+![alt text](https://github.com/mortezaalizadeh66/cpp-image-template-matching-opencv/blob/main/bigimage.png)
+
 
 # tested and it works good
 
@@ -16,9 +21,6 @@ Please check configuration folder .vscode to be match with your OS and versions
 /usr/local/Cellar/opencv/4.7.0_4/include/opencv4/opencv2
     
 
-bigimage.png
-
-![alt text](https://github.com/mortezaalizadeh66/cpp-image-template-matching-opencv/blob/main/bigimage.png)
 
 
 smallimage.jpg
