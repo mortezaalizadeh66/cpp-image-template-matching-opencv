@@ -9,8 +9,11 @@ cpp code is main.cpp
     # install homebrew
     
           brew install opencv
+         
     
-Please check configuration folder .vscode to be match with your OS    
+Please check configuration folder .vscode to be match with your OS and versions     
+
+/usr/local/Cellar/opencv/4.7.0_4/include/opencv4/opencv2
     
 
 bigimage.png
